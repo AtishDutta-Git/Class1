@@ -7,5 +7,3 @@
                                                  
 
 # Welcome to ENTR-451 Hello world
-
-This is an example of a GitHub repository.
